@@ -19,7 +19,7 @@ export default defineUserConfig({
 
     logo: "https://pi.escaped.icu/1.png",
 
-    repo: "hzqlingmou/esca-plugin",
+    repo: "esyka114514/esca-plugin",
 
     docsDir: "src",
 
@@ -53,7 +53,7 @@ export default defineUserConfig({
       intro: "https://escaped.icu",
       medias: {
         Gitee: "https://gitee.com/escaped-spark",
-        GitHub: "https://github.com/hzqlingmou",
+        GitHub: "https://github.com/esyka114514",
       },
     },
 

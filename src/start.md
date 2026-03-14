@@ -10,7 +10,7 @@ icon: /g.png
 <br>
 
 ![动态访问量](https://count.kjchmc.cn/get/@esca-plugin?theme=rule34)<br>
-[![github](https://img.shields.io/badge/Gihub-逸燧插件-skyblue?style=flat-square&logo=github)](https://github.com/hzqlingmou/esca-plugin)  [![Group](https://img.shields.io/badge/QQ交流群-958866155-red?style=flat-square&logo=GroupMe&logoColor=white)](https://qm.qq.com/q/Mf1D9HuL0u)
+[![github](https://img.shields.io/badge/Gihub-逸燧插件-skyblue?style=flat-square&logo=github)](https://github.com/esyka114514/esca-plugin)  [![Group](https://img.shields.io/badge/QQ交流群-958866155-red?style=flat-square&logo=GroupMe&logoColor=white)](https://qm.qq.com/q/Mf1D9HuL0u)
 
 </div>
 
@@ -33,7 +33,7 @@ git clone https://gitee.com/escaped-spark/esca-plugin.git ./plugins/esca-plugin
 
 **从github下载（国外）**
 ```bash
-git clone https://github.com/hzqlingmou/esca-plugin ./plugins/esca-plugin
+git clone https://github.com/esyka114514/esca-plugin ./plugins/esca-plugin
 ```
 
 #### 安装依赖
